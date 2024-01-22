@@ -1,4 +1,5 @@
 <?php 
+// 
 require ("includes/header.php");
 require ("includes/nav.php");
 if(isset($_SESSION['name']))
